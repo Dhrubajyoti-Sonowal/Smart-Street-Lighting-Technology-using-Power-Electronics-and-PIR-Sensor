@@ -2,10 +2,10 @@
 
 This Repository consists the Hardware circuits and Implementation Video and PDF Report of Smart Street Lightig Using PIR sensor. The model had reduced the illuminance of the bulb to 33% of its full value. This is due to the arrangement of the PIR sensor and the control circuit of the model. The advantage of this is that the wastage of energy is minimized.
 
-# Hardware Circuit
-Top View of The Model
+## Hardware Circuit
 
-PIR sensor
+### Top View of The Model
+![PIR sensor]()
 
 Rectifier Protection and Regulation Section
 
