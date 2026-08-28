@@ -5,10 +5,17 @@ This Repository consists the Hardware circuits and Implementation Video and PDF 
 ## Hardware Circuit
 
 ### Top View of The Model
-![PIR sensor](https://github.com/Dhrubajyoti-Sonowal/Smart-Street-Lighting-Technology-using-Power-Electronics-and-PIR-Sensor/blob/5b2240411784ffa001b83b35ecd966a0cd6600ac/top%20view.jpg)
+![Top View](https://github.com/Dhrubajyoti-Sonowal/Smart-Street-Lighting-Technology-using-Power-Electronics-and-PIR-Sensor/blob/5b2240411784ffa001b83b35ecd966a0cd6600ac/top%20view.jpg)
 
-Rectifier Protection and Regulation Section
+### Rectifier Protection and Regulation Section
+![Rectifier](https://github.com/Dhrubajyoti-Sonowal/Smart-Street-Lighting-Technology-using-Power-Electronics-and-PIR-Sensor/blob/73eecd4b45a9af0f8033a18a229a2b83d5895513/Rectifier.jpg)
 
-Switching Section
+### Switching Section
+![Switching]
+
+### Mode Demo
+![Demo video]
+
 
 # Results and Report
+
