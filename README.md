@@ -19,4 +19,4 @@ This Repository consists the Hardware circuits and  and PDF Report of Smart Stre
 # Observations
 ![obs](https://github.com/Dhrubajyoti-Sonowal/Smart-Street-Lighting-Technology-using-Power-Electronics-and-PIR-Sensor/blob/2d1270179f72194fd1fc0d929f9c791c9da49db4/obs%20table.PNG)
 # Report pdf
-!(report)()
+![report](https://github.com/Dhrubajyoti-Sonowal/Smart-Street-Lighting-Technology-using-Power-Electronics-and-PIR-Sensor/blob/10bef9cb5cc484a4f5c249dc466336acca920705/Btech%20Project.pdf)
