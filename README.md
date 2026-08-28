@@ -1,6 +1,6 @@
 # Smart-Street-Lighting-Technology-using-Power-Electronics-and-PIR-Sensor
 
-This Repository consists the Hardware circuits and Implementation Video and PDF Report of Smart Street Lightig Using PIR sensor. The model had reduced the illuminance of the bulb to 33% of its full value. This is due to the arrangement of the PIR sensor and the control circuit of the model. The advantage of this is that the wastage of energy is minimized.
+This Repository consists the Hardware circuits and  and PDF Report of Smart Street Lightig Using PIR sensor. The model had reduced the illuminance of the bulb to 33% of its full value. This is due to the arrangement of the PIR sensor and the control circuit of the model. The advantage of this is that the wastage of energy is minimized.
 
 ## Hardware Circuit
 
@@ -13,9 +13,10 @@ This Repository consists the Hardware circuits and Implementation Video and PDF 
 ### Switching Section
 ![Switching](https://github.com/Dhrubajyoti-Sonowal/Smart-Street-Lighting-Technology-using-Power-Electronics-and-PIR-Sensor/blob/0c0e0ea34c9ce741fad0951cbf360501430f76b5/Switching%20section.jpg)
 
-### Mode Demo
-![Demo video]
 
 
-# Results and Report
-
+## Results and Report
+# Observations
+![obs]()
+# Report pdf
+!(report)()
